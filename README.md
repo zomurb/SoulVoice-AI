@@ -30,8 +30,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/username/soulvoice-ai.git
-    cd soulvoice-ai
+    git clone https://github.com/zomurb/SoulVoice.git
+    cd SoulVoice
     ```
 
 2.  **Создайте виртуальное окружение (рекомендуется):**
@@ -91,3 +91,4 @@
 
 ---
 *Created to bring warmth and comfort by zomurb* 🕯️
+
